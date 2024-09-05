@@ -8,5 +8,9 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "iammefr",
+            "link": "https://www.youtube.com/watch?v=LfeWlY2vMdg",
+            "percent": 100,
     ]
 }
