@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=LfeWlY2vMdg",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "DuoFresh",
+            "link": "https://youtu.be/akQ86PfrKv4",
+            "percent": 100,
+            "hz": 480
         }
     ]
 }
